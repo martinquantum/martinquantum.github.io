@@ -4,7 +4,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 
-title : martinquantum::space
+title : martinquantum
 
 tagline: 'Software libraries for quantum computing'
 
