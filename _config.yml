@@ -1,0 +1,57 @@
+github: [metadata]
+ encoding: UTF-8
+ kramdown:
+   input: GFM
+   hard_wrap: false
+ future: true
+ jailed: false
+ theme: jekyll-theme-primer
+ gfm_quirks: paragraph_end
+
+
+# Dependencies
+
+markdown:         kramdown
+highlighter:      rouge
+
+
+title : martinquantum::space
+
+tagline: 'Software libraries for quantum computing'
+
+description:
+
+    Principal Researcher at Microsoft Azure
+
+url: https://www.microsoft.com/en-us/research/people/martinro/
+
+baseurl: https://www.microsoft.com/en-us/research/people/martinro/
+
+
+
+author :
+
+  name : Martin Roetteler
+
+  email : martinro@microsoft.com
+  
+  github : martinquantum
+
+  twitter : martinquantum
+
+
+
+github:
+
+  repo: https://github.com/martinquantum/martinquantum.github.io
+
+
+
+permalink: /blog/:year/:month/:day/:title.html
+
+
+
+paginate: 5
+
+paginate_path: "/blog/page:num/"
+
