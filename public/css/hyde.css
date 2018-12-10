@@ -56,7 +56,7 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
+  color: #ac4142;
   background-color: #202020;
 }
 @media (min-width: 48em) {
@@ -68,16 +68,6 @@ html {
     width: 18rem;
     text-align: left;
   }
-}
-
-/* Red */
-.theme-base-08 .sidebar {
-  background-color: #ac4142;
-}
-
-.theme-base-08 .content a,
-.theme-base-08 .related-posts li a:hover {
-  color: #ac4142;
 }
 
 /* Sidebar links */
