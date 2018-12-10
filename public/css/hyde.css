@@ -70,6 +70,16 @@ html {
   }
 }
 
+/* Red */
+.theme-base-08 .sidebar {
+  background-color: #ac4142;
+}
+
+.theme-base-08 .content a,
+.theme-base-08 .related-posts li a:hover {
+  color: #ac4142;
+}
+
 /* Sidebar links */
 .sidebar a {
   color: #fff;
